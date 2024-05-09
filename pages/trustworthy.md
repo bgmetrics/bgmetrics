@@ -11,3 +11,6 @@
 
 # Здравеопазване
 * [Средна продължителност на живота към 2020 година (eurostat)](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20221118-1)
+
+# Енергетика
+* [Електроенергиен системен оператор (eso.bg)](https://www.eso.bg/doc/?pbook)
